@@ -44,6 +44,7 @@
  			{
  				return <h1 style ={{color: '#a1a1a1'}}>Please wait while we load...</h1>
  			}
+ 			
  			else    { 
  				return (
 		 			<div className='tc'>

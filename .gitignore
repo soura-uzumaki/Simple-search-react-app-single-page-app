@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/Simple-search-react-app-single-page-app
 
 # testing
 /coverage
