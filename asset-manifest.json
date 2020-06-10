@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-search-react-app-single-page-app/static/css/main.b0f2d29a.chunk.css",
+    "main.js": "/Simple-search-react-app-single-page-app/static/js/main.3b486b92.chunk.js",
+    "main.js.map": "/Simple-search-react-app-single-page-app/static/js/main.3b486b92.chunk.js.map",
+    "runtime-main.js": "/Simple-search-react-app-single-page-app/static/js/runtime-main.608140e2.js",
+    "runtime-main.js.map": "/Simple-search-react-app-single-page-app/static/js/runtime-main.608140e2.js.map",
+    "static/js/2.10c52673.chunk.js": "/Simple-search-react-app-single-page-app/static/js/2.10c52673.chunk.js",
+    "static/js/2.10c52673.chunk.js.map": "/Simple-search-react-app-single-page-app/static/js/2.10c52673.chunk.js.map",
+    "index.html": "/Simple-search-react-app-single-page-app/index.html",
+    "precache-manifest.379fd718db24fcbac3f490ce6b17d633.js": "/Simple-search-react-app-single-page-app/precache-manifest.379fd718db24fcbac3f490ce6b17d633.js",
+    "service-worker.js": "/Simple-search-react-app-single-page-app/service-worker.js",
+    "static/css/main.b0f2d29a.chunk.css.map": "/Simple-search-react-app-single-page-app/static/css/main.b0f2d29a.chunk.css.map",
+    "static/js/2.10c52673.chunk.js.LICENSE.txt": "/Simple-search-react-app-single-page-app/static/js/2.10c52673.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.608140e2.js",
+    "static/js/2.10c52673.chunk.js",
+    "static/css/main.b0f2d29a.chunk.css",
+    "static/js/main.3b486b92.chunk.js"
+  ]
+}
