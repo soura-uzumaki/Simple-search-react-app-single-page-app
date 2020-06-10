@@ -9,7 +9,7 @@ const Card=({id,name})=>
 				<img alt='robo-friend' src={`https://robohash.org/${id}?50x50`} />
 				<div>	
 					<h2>{id}</h2>
-					<p>{name}</p>
+					<p style ={{fontWeight: 'bold', letterSpacing:'1px'}}>{name}</p>
 				</div>
 			</div>
 			);
